@@ -1,0 +1,7 @@
+PUT http://localhost:8080//edit-game/cyberpunk
+Content-Type: application/json
+
+{
+  "gamePlatform": "PLAYSTATION5",
+  "softwareDistribution": "PLAYSTATIONSHOP"
+}

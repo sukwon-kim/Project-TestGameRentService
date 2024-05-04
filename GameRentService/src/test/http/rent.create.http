@@ -1,0 +1,11 @@
+POST http://localhost:8080/create-game
+Content-Type: application/json
+
+{
+  "gameTitle": "cyberpunk",
+  "developer": "cd-project",
+  "publisher": "vandai",
+  "gamePlatform": "NINTENDOSWITCH",
+  "softwareDistribution": "NINTENTDOESHOP",
+  "isloaned": false
+}
